@@ -1,0 +1,2 @@
+max session length: 100; mean session length: 99.98677089597113
+number of anomalous sessions: 148; number of normal sessions: 1515; number of total sessions: 1663

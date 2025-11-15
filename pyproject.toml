@@ -3,8 +3,8 @@ name = "betterlogs"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.8"
 dependencies = [
-    "ipykernel>=7.1.0",
-    "pandas>=2.3.3",
+    "ipykernel",
+    "pandas",
 ]
